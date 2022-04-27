@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.zoom {
+    height: 85vh;
+    background: #000;
+}
+
+
+.top-zoom {
+    text-align: right;
+    padding: 0.2rem 0.5rem;
+}
+
+.top-zoom button {
+    padding: 0.2rem 0.4rem;
+}
