@@ -16,7 +16,7 @@
     background: #000;
     padding: 0.2rem 0.5rem;
     padding-bottom: 40px;
-    height: 10vh;
+    height: 5vh;
 }
 
 .top button {
@@ -32,7 +32,7 @@
 /* users section */
 
 .zoom {
-    height: 80vh;
+    height: 85vh;
     background: #000;
 }
 
@@ -98,7 +98,7 @@
 
 
 .bottom-right button{
-
+    height: 10vh;
     display: block;
     background: #4A4A4A;
     color: red;
