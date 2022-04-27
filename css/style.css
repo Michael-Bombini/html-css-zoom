@@ -70,6 +70,8 @@
 
 /* bottom section */
 
+
+
 .bottom {
     height: 10vh;
     background: #222222;
@@ -92,6 +94,7 @@
     text-align: center;
     color: #fff;
     font-size: 2rem;
+    padding-bottom: 0.4rem;
 }
 
 
@@ -107,3 +110,22 @@
     padding: 1rem 1rem;
     text-align: center;
 }
+
+
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.fa-solid.fa-angle-up {
+    font-size: 13px;
+}
+
+
+.fa-solid.fa-share-from-square {
+    color: #47C900;
+}
+
+
+/* ------------------------------  */
